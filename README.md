@@ -1,9 +1,9 @@
 # Práctica: Estructuras Dinámicas Lineales
 
 ## Datos del Estudiante
-- **Nombre:** [Galo Patricio Prieto Tapia]
-- **Curso:** [Computacuón]
-- **Fecha:** [10 de junio del 2026]
+- **Nombre:** Galo Patricio Prieto Tapia
+- **Curso:** Computación
+- **Fecha:** 10 de junio del 2026
 
 ---
 
