@@ -7,14 +7,15 @@ import java.util.Queue;
 public class App {
     public static void main(String[] args) throws Exception {
      
-       // runLinkedList();
-        //runQueue();
-        //runStack();
+       runLinkedList();
+        runQueue();
+        runStack();
 
-        //Ejercicio1 ejercicio1 = new Ejercicio1();
-        //String texto = "COMPUTACION";
-        //String invertido = ejercicio1.invertString(texto);
-        //System.out.println(invertido);
+        System.out.println("Ejericio 1");
+        Ejercicio1 ejercicio1 = new Ejercicio1();
+        String texto = "COMPUTACION";
+        String invertido = ejercicio1.invertString(texto);
+        System.out.println(invertido);
 
         System.out.println();
         System.out.println("Ejercicio 2: Palíndromo");

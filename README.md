@@ -18,12 +18,13 @@ En esta práctica se implemento ejemplos de Linked,Queue y ArrayDeque para compr
 ### Captura de salida en consola
 
 ![Captura de salida en consola](assets/01-captura-salida-consola.png)
-![alt text](image.png)
+![alt text](image-3.png)
 
 ### Captura del código de implementación del ejercicio 1
 
 ![Captura del código de implementación](assets/02-app-implementacion-code.png)
 ![alt text](image-1.png)
+![alt text](image-2.png)
 
 o bloque de código .
 
